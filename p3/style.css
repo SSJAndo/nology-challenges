@@ -1,0 +1,34 @@
+.box1 {
+ background-color: lightblue;
+ align-items: center;
+ height: 200px;
+ width: 200px;
+ display:flex
+ 
+}
+
+.box2 {
+ background-color: orange;
+ align-items: center;
+ height: 200px;
+ width: 200px;
+ display:flex
+}
+
+.box3 {
+ background-color: rgb(240, 118, 198);
+ align-items: center;
+ height: 200px;
+ width: 200px;
+ display:flex
+}
+
+section {
+ justify-content: center;
+ display:flex
+}
+
+div {
+ justify-content: center;
+  align-items: center;
+}
